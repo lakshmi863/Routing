@@ -1,0 +1,13 @@
+.blog-list-container {
+  border-radius: 5px;
+
+  border-width: 5px;
+}
+
+.second-bg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
